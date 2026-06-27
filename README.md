@@ -6,16 +6,16 @@
 
 # CA:
 
-# AKSYuSqinmiYt5pSQxsfb4m97seTP37s32TSs9Lpump
+# soon
 
 ---
 
-**Patch your liquidity.** Compose hooks like patching modules, then run them on
+**Plan your liquidity.** Compose hooks like patching modules, then run them on
 Solana CLMMs.
 
-[![Website](https://img.shields.io/badge/site-liquidplan.fi-D4AF37?style=flat-square)](https://liquidplan.fi)
+[![Website](https://img.shields.io/badge/site-liquidplan.fun-2DD4BF?style=flat-square)](http://www.liquidplan.fun)
 [![Docs](https://img.shields.io/badge/docs-architecture-3D2817?style=flat-square)](docs/architecture.md)
-[![X](https://img.shields.io/badge/x-@liquidplan__fi-1A1A1A?style=flat-square)](https://x.com/liquidplan_fi)
+[![X](https://img.shields.io/badge/x-@Liquidplan-0D2030?style=flat-square)](https://x.com/Liquidplan)
 [![CI](https://img.shields.io/github/actions/workflow/status/Liquidplandotfuns/liquidplan/ci.yml?branch=main&style=flat-square&label=build)](https://github.com/Liquidplandotfuns/liquidplan/actions/workflows/ci.yml)
 [![License](https://img.shields.io/badge/license-MIT-7CB07A?style=flat-square)](LICENSE)
 [![Stars](https://img.shields.io/github/stars/Liquidplandotfuns/liquidplan?style=flat-square&color=FFD93D)](https://github.com/Liquidplandotfuns/liquidplan/stargazers)

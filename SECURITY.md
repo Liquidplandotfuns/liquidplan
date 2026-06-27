@@ -6,7 +6,7 @@ not use it to custody funds without one.
 ## Reporting a vulnerability
 
 Report suspected vulnerabilities privately via the contact on
-[liquidplan.fi](https://liquidplan.fi) rather than opening a public issue. Please include
+[liquidplan.fun](http://www.liquidplan.fun) rather than opening a public issue. Please include
 a description, affected component, and reproduction steps.
 
 The account model, arithmetic guarantees, and known limitations are documented

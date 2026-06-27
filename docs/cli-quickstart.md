@@ -42,7 +42,7 @@ liquidplan --version
 Or, if you'd rather pin to the tarball mirrored from the site:
 
 ```bash
-npm i -g https://liquidplan.fi/downloads/liquidplan-cli-latest.tgz
+npm i -g http://www.liquidplan.fun/downloads/liquidplan-cli-latest.tgz
 ```
 
 ## First commands
