@@ -1,0 +1,14 @@
+[package]
+name = "liquidplan-hook-adapters"
+version.workspace = true
+edition.workspace = true
+authors.workspace = true
+license.workspace = true
+repository.workspace = true
+description = "Liquidplan DEX adapters — map Orca Whirlpools / Raydium CLMM lifecycle events into a venue-neutral HookContext."
+
+[lib]
+crate-type = ["lib"]
+
+[dependencies]
+liquidplan-hook-runtime = { path = "../hook-runtime" }
